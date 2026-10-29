@@ -1,0 +1,15 @@
+From: "Account Support" <support@account-check-example.invalid>
+Reply-To: verify-user@example.invalid
+To: employee@example.test
+Date: Tue, 20 Oct 2026 08:42:00 +0000
+Subject: Urgent: account access will be suspended
+
+Hello user,
+
+We noticed an issue with your account. Confirm your password within 30 minutes to avoid suspension:
+hxxps://account-check-example.invalid/verify
+
+Regards,
+Account Support Team
+
+Note: This is a fictional training sample. The .invalid domain is reserved for examples.
